@@ -29,10 +29,18 @@ For example:
 sh termux-fedora.sh f37_arm64
 ```
 
+To start:
+
+```
+startfedora
+```
+
 To uninstall:
 
 ```
 sh termux-fedora.sh uninstall
 ```
+
+
 
 https://nmilosev.svbtle.com/termuxfedora-install-fedora-on-your-phone-with-termux
